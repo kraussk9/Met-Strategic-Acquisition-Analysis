@@ -9,5 +9,5 @@ Problem statement: Where are the Met's most significant representation gaps in M
 
 Methodology: Compares artist nationality (and gender, if available) composition of Met Modern & Contemporary acquisitions vs. MoMA acquisitions over time, using each institution's collection dataset.  Met API filtered to Modern & Contemporary department and MoMA CSV.
 
-Asana board link:
+Kanban board link:
 https://app.asana.com/1/1216118483417930/project/1216119864379663/board/1216120106869079
