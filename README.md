@@ -14,4 +14,5 @@ https://app.asana.com/1/1216118483417930/project/1216119864379663/board/12161201
 
 
 MoMA Artist CSV: https://media.githubusercontent.com/media/MuseumofModernArt/collection/refs/heads/main/Artists.csv
+
 MoMA Artworks CSV: https://media.githubusercontent.com/media/MuseumofModernArt/collection/refs/heads/main/Artworks.csv
