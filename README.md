@@ -11,3 +11,7 @@ Methodology: Compares artist nationality (and gender, if available) composition 
 
 Kanban board link:
 https://app.asana.com/1/1216118483417930/project/1216119864379663/board/1216120106869079
+
+
+MoMA Artist CSV: https://media.githubusercontent.com/media/MuseumofModernArt/collection/refs/heads/main/Artists.csv
+MoMA Artworks CSV: https://media.githubusercontent.com/media/MuseumofModernArt/collection/refs/heads/main/Artworks.csv
