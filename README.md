@@ -1,5 +1,7 @@
 # Met-Strategic-Acquisition-Analysis
-Closing the Gap: Benchmarking the Met's Modern Acquisitions Against MoMA to Inform Tang Wing Strategy
+## Closing the Gap: Benchmarking the Met's Modern Acquisitions Against MoMA to Inform Tang Wing Strategy
+
+## Introduction
 
 Business opportunity: The Met has publicly committed to filling the new Tang Wing's 70,000+ square feet, set to open in 2030, with art including works from artists long underrepresented in the art world. This analysis benchmarks the Met's current acquisition composition against MoMA, an institution with an established, stated diversity-driven acquisition strategy, to identify specific representation gaps and inform where Tang Wing acquisition budget should be prioritized.
 
@@ -12,6 +14,7 @@ Methodology: Compares artist nationality (and gender, if available) composition 
 Kanban board link:
 https://app.asana.com/1/1216118483417930/project/1216119864379663/board/1216120106869079
 
+## Data Sources
 
 MoMA Artist CSV: https://media.githubusercontent.com/media/MuseumofModernArt/collection/refs/heads/main/Artists.csv
 
