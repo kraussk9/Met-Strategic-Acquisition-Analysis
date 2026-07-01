@@ -7,7 +7,7 @@
 The Met has publicly committed to filling the new Tang Wing's 70,000+ square feet, set to open in 2030, with art including works from artists long underrepresented in the art world. This analysis benchmarks the Met's current acquisition composition against MoMA, an institution with an established, stated diversity-driven acquisition strategy, to identify specific representation gaps and inform where Tang Wing acquisition budget should be prioritized.
 
 ### Hypothesis: 
-The Met's Modern acquisitions show measurable underrepresentation gaps (nationality, and gender if data allows) relative to MoMA, indicating specific areas the Tang Wing expansion will need to address to meet its own stated public commitment.
+The Met's Modern acquisitions were expected to show underrepresentation gaps relative to MoMA — the data revealed the opposite, with MoMA showing higher Western concentration than the Met.
 
 ### Problem statement: 
 Where are the Met's most significant representation gaps in Modern acquisitions relative to MoMA, and what does that suggest about acquisition priorities for the Tang Wing's new gallery space?
@@ -16,6 +16,7 @@ Where are the Met's most significant representation gaps in Modern acquisitions 
 Compares artist nationality composition of Met Modern acquisitions vs. MoMA acquisitions over time, using each institution's collection dataset.  Met CSV filtered to Modern Art department and MoMA Artists and Artworks CSV. Wikipedia list To add public engagement context to our diversity analysis.
 
 ### Findings:
+- Contrary to the initial hypothesis, the Met's Modern Art department shows greater non-Western representation than MoMA.
 - Met Modern Art department: 82.9% Western, 17.1% Non-Western artist representation
 - MoMA: 87.1% Western, 12.9% Non-Western — surprisingly MORE Western than the Met
 - Met receives 2.25x more annual visitors than MoMA (5.98M vs 2.66M)
