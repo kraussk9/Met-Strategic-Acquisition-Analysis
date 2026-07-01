@@ -13,7 +13,7 @@ The Met's Modern acquisitions show measurable underrepresentation gaps (national
 Where are the Met's most significant representation gaps in Modern acquisitions relative to MoMA, and what does that suggest about acquisition priorities for the Tang Wing's new gallery space?
 
 ### Methodology: 
-Compares artist nationality (and gender, if available) composition of Met Modern acquisitions vs. MoMA acquisitions over time, using each institution's collection dataset.  Met CSV filtered to Modern Art department and MoMA Artists and Artworks CSV.
+Compares artist nationality composition of Met Modern acquisitions vs. MoMA acquisitions over time, using each institution's collection dataset.  Met CSV filtered to Modern Art department and MoMA Artists and Artworks CSV. Wikipedia list To add public engagement context to our diversity analysis.
 
 ### Findings:
 - Met Modern Art department: 82.9% Western, 17.1% Non-Western artist representation
