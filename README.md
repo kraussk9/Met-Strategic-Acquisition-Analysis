@@ -9,14 +9,14 @@ Hypothesis: The Met's Modern acquisitions show measurable underrepresentation ga
 
 Problem statement: Where are the Met's most significant representation gaps in Modern acquisitions relative to MoMA, and what does that suggest about acquisition priorities for the Tang Wing's new gallery space?
 
-Methodology: Compares artist nationality (and gender, if available) composition of Met Modern acquisitions vs. MoMA acquisitions over time, using each institution's collection dataset.  Met API filtered to Modern Art department and MoMA Artists and Artworks CSV. Sampled 1200 objects for computational efficiency in the Met API. 81 of 1,200 sampled objects returned no data and were excluded.
+Methodology: Compares artist nationality (and gender, if available) composition of Met Modern acquisitions vs. MoMA acquisitions over time, using each institution's collection dataset.  Met CSV filtered to Modern Art department and MoMA Artists and Artworks CSV.
 
 Kanban board link:
 https://app.asana.com/1/1216118483417930/project/1216119864379663/board/1216120106869079
 
 ## Data Sources
 
-Met CSV: [https://collectionapi.metmuseum.org/public/collection/v1/objects](https://media.githubusercontent.com/media/metmuseum/openaccess/refs/heads/master/MetObjects.csv)
+Met CSV:
 
 MoMA Artist CSV: https://media.githubusercontent.com/media/MuseumofModernArt/collection/refs/heads/main/Artists.csv
 
