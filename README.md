@@ -16,7 +16,7 @@ https://app.asana.com/1/1216118483417930/project/1216119864379663/board/12161201
 
 ## Data Sources
 
-Met API: https://collectionapi.metmuseum.org/public/collection/v1/objects
+Met CSV: [https://collectionapi.metmuseum.org/public/collection/v1/objects](https://media.githubusercontent.com/media/metmuseum/openaccess/refs/heads/master/MetObjects.csv)
 
 MoMA Artist CSV: https://media.githubusercontent.com/media/MuseumofModernArt/collection/refs/heads/main/Artists.csv
 
