@@ -37,6 +37,9 @@ The decade-by-decade trend adds a further dimension. The 1900s spike in the Met'
 Kanban board link:
 https://app.asana.com/1/1216118483417930/project/1216119864379663/board/1216120106869079
 
+Presentation link:
+https://docs.google.com/presentation/d/1Olrax8-qsUAuwACx8tPLvd8A4AeUbPLsZlO0LFYcfMM/edit?usp=sharing
+
 ## Data Sources
 
 Met CSV: https://media.githubusercontent.com/media/metmuseum/openaccess/refs/heads/master/MetObjects.csv
