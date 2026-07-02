@@ -24,6 +24,11 @@ Compares artist nationality composition of Met Modern Art acquisitions vs. MoMA 
 - The Met's 2010s saw 30.3% non-Western acquisitions vs MoMA's 23.6% — the Met is leading the recent diversification trend
 - The data validates the Tang Wing's stated commitment to underrepresented artists
 
+### Analysis & Interpretation:
+The finding that the Met outperforms MoMA on non-Western representation challenges the prevailing public narrative. The likely explanation lies in institutional mission: the Met's encyclopedic mandate means it collects globally across all departments and time periods, while MoMA's focus on modernism — a movement with Western European origins — structurally concentrates its collection in Western artists, regardless of its stated diversity ambitions. Reputation and reality diverge here in a measurable, data-backed way.
+
+The decade-by-decade trend adds a further dimension. The 1900s spike in the Met's non-Western line is likely a statistical outlier from a small number of objects with unusual provenance skewing early percentages. The more significant story begins post-2000: both institutions accelerate non-Western acquisitions simultaneously, suggesting industry-wide momentum rather than institution-specific strategy. The Met pulls meaningfully ahead in the 2010s (30.3% vs MoMA's 23.6%) — and the Tang Wing announcement may itself be both a reflection of and a driver of that shift. By 2020, the lines converge again, reinforcing the sense that diversification is becoming a sector-wide standard rather than a differentiator.
+
 ### Further Questions & Next Steps:
 - Does gender representation follow similar patterns to nationality?
 - Would incorporating auction/market data reveal whether diversity correlates with commercial value?
